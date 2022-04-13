@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yagna603
-- 👀 I’m interested in Cyber Security and Web Development.
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Yagna.
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Operating Systems, Algorithms, Data Structures.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
