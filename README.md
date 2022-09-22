@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yagna.
+- 👋 Hi, I’m Yagna, pre-final year student of IIT(ISM), Dhanbad.
 - 👀 I’m interested in Game Development, App Development and Cyber Security.
 - 🌱 I’m currently learning Virtual Reality, Algorithms and Data Structures.
 - 💞️ I’m looking to collaborate on ...
